@@ -2,5 +2,5 @@
 Let's see what happens now
 =======
 Hello World
-Now I'm adding a second line of text
+Now I'm adding a second line of 
 >>>>>>> refs/remotes/origin/main
